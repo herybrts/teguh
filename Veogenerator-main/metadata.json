@@ -1,0 +1,5 @@
+{
+  "name": "Generator Video Veo",
+  "description": "Aplikasi web canggih untuk menghasilkan video berkualitas tinggi menggunakan Google Veo 2 dan model hipotetis Veo 3. Fitur termasuk pemilihan rasio aspek untuk Veo 2, unggahan gambar referensi, dan pembuatan video dari teks.",
+  "requestFramePermissions": []
+}
